@@ -1,4 +1,4 @@
-# Welcome to the "Caluators In Every Language" project.
+# Welcome to the "Calculator In Every Language" project.
 ### This mission is to unite all four corners of the programming world into *one. simple.. concept...*, The Calculator
 
 The goal of each language is to be able to solve some average algebraic equations and multiple operations;
