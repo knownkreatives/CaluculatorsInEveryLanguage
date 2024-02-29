@@ -1,4 +1,4 @@
-import re ## Plan to implement algebraic calcuation
+import re ## Plan to implement algebraic calculation
 import math
 from time import sleep
 
@@ -6,6 +6,9 @@ class Calculator:
     Result = 0
 
     def Main(self): # Called to start the program
+        self.CalculatorProgram()
+        
+    def CalculatorProgram(self):
         self.Calculator()
         
         cont = ""
@@ -36,7 +39,7 @@ class Calculator:
             case 5 | 6:
                 values.append(int(input("What is the second value? ")))
 
-        result = opperation(*values)
+        result = operation(*values)
         self.Result = result 
         print(result[0])
         
@@ -47,7 +50,7 @@ class Calculator:
         sleep(0.125)
         print("2) Subtraction")
         sleep(0.125)
-        print("3) Multiplition")
+        print("3) Multiplication")
         sleep(0.125)
         print("4) Division")
         sleep(0.125)
@@ -66,21 +69,21 @@ class Calculator:
     def SelectOperation(self, option=1):
         match(option):
             case 1:
-                opperation = Opperation.Add
+                operation = Operation.Add
             case 2:
-                opperation = Opperation.Subtract
+                operation = Operation.Subtract
             case 3:
-                opperation = Opperation.Multiply
+                operation = Operation.Multiply
             case 4:
-                opperation = Opperation.Divide
+                operation = Operation.Divide
             case 5:
-                opperation = Opperation.Exponent
+                operation = Operation.Exponent
             case 6:
-                opperation = Opperation.Modulos
+                operation = Operation.Modulos
 
-        return opperation
+        return operation
 
-class Opperation:
+class Operation:
     @classmethod
     def Add(self, x, *y):
         string = f"{x}"
