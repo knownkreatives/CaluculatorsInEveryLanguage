@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atang\\Documents\\C# Projects\\CalculatorCsharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7144E0C0-BC0D-41A6-AC54-7B4E560428AE}|CalculatorCsharp.csproj|c:\\users\\atang\\documents\\c# projects\\calculatorcsharp\\programv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7144E0C0-BC0D-41A6-AC54-7B4E560428AE}|CalculatorCsharp.csproj|solutionrelative:programv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProgramV1.cs",
+              "DocumentMoniker": "C:\\Users\\atang\\Documents\\C# Projects\\CalculatorCsharp\\ProgramV1.cs",
+              "RelativeDocumentMoniker": "ProgramV1.cs",
+              "ToolTip": "C:\\Users\\atang\\Documents\\C# Projects\\CalculatorCsharp\\ProgramV1.cs",
+              "RelativeToolTip": "ProgramV1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:35:03.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

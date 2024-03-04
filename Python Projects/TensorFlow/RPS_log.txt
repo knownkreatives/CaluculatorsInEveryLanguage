@@ -1,0 +1,54 @@
+Match:
+Player 1's plays => ['R', 'R', 'S', 'P', 'S', 'S', 'P', 'R', 'P', 'R', 'R', 'S', 'P', 'S', 'R', 'R', 'P', 'R', 'S', 'P', 'R', 'S', 'S', 'P', 'R', 'R', 'S', 'P', 'P', 'S']
+Player 2's plays => ['P', 'P', 'P', 'P', 'P', 'R', 'R', 'R', 'R', 'S', 'S', 'P', 'R', 'P', 'P', 'S', 'R', 'S', 'P', 'P', 'P', 'R', 'S', 'S', 'S', 'R', 'R', 'R', 'P', 'P']
+Results:
+	Wins => (Player 1) 16, (Player 2) 8
+	Losses => (Player 1) 8, (Player 2) 16
+	Draws => 6
+End of log
+
+Match:
+Player 1's plays => ['S', 'R', 'S', 'P', 'S', 'P', 'P', 'S', 'R', 'S', 'P', 'R', 'S', 'P', 'P', 'R', 'S', 'P', 'R', 'R', 'P', 'P', 'S', 'S', 'P', 'S', 'R', 'P', 'S', 'R']
+Player 2's plays => ['S', 'S', 'R', 'S', 'R', 'S', 'R', 'S', 'S', 'R', 'S', 'S', 'R', 'P', 'S', 'S', 'R', 'S', 'P', 'S', 'R', 'R', 'P', 'S', 'S', 'P', 'R', 'P', 'P', 'S']
+Results:
+	Wins => (Player 1) 12, (Player 2) 12
+	Losses => (Player 1) 12, (Player 2) 12
+	Draws => 6
+End of log
+
+Match:
+Player 1's plays => ['R', 'S', 'P', 'S', 'R', 'P']
+Player 2's plays => ['R', 'R', 'R', 'S', 'S', 'P']
+Results:
+	Wins => (Player 1) 2, (Player 2) 1
+	Losses => (Player 1) 1, (Player 2) 2
+	Draws => 3
+End of log
+
+Match:
+Player 1's plays => ['S', 'P', 'P', 'R', 'S', 'R']
+Player 2's plays => ['S', 'S', 'S', 'S', 'S', 'S']
+Results:
+	Wins => (Player 1) 2, (Player 2) 2
+	Losses => (Player 1) 2, (Player 2) 2
+	Draws => 2
+End of log
+
+Match:
+Player 1's plays => ['P', 'P', 'R', 'S', 'S', 'P']
+Player 2's plays => ['R', 'S', 'S', 'R', 'P', 'S']
+Results:
+	Wins => (Player 1) 3, (Player 2) 3
+	Losses => (Player 1) 3, (Player 2) 3
+	Draws => 0
+End of log
+
+Match:
+Player 1's plays => ['R', 'S', 'R', 'P', 'R', 'R']
+Player 2's plays => ['R', 'S', 'S', 'S', 'P', 'R']
+Results:
+	Wins => (Player 1) 1, (Player 2) 2
+	Losses => (Player 1) 2, (Player 2) 1
+	Draws => 3
+End of log
+
