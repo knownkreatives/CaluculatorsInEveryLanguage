@@ -2,7 +2,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>88a4f876-84c0-4860-9d7c-b4a7423f3e92</ProjectGuid>
+    <ProjectGuid>1a83a015-f79b-486c-83d7-84d290553e04</ProjectGuid>
     <ProjectHome>.</ProjectHome>
     <StartupFile>
     </StartupFile>
@@ -10,8 +10,8 @@
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>CalculatePython</Name>
-    <RootNamespace>CalculatePython</RootNamespace>
+    <Name>CalculatePythonV2</Name>
+    <RootNamespace>CalculatePythonV2</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -22,8 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="ProgramV1.py" />
-    <Compile Include="ProgramV2.py" />
+    <Compile Include="Program.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

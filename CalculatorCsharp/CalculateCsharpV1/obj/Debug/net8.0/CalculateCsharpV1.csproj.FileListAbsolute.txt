@@ -1,0 +1,15 @@
+C:\Users\atang\Documents\GitHub\Programing Projects\CaluculatorsInEveryLanguage\CalculatorCsharp\CalculateCsharpV1\obj\Debug\net8.0\CalculateCsharpV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atang\Documents\GitHub\Programing Projects\CaluculatorsInEveryLanguage\CalculatorCsharp\CalculateCsharpV1\obj\Debug\net8.0\CalculateCsharpV1.AssemblyInfoInputs.cache
+C:\Users\atang\Documents\GitHub\Programing Projects\CaluculatorsInEveryLanguage\CalculatorCsharp\CalculateCsharpV1\obj\Debug\net8.0\CalculateCsharpV1.AssemblyInfo.cs
+C:\Users\atang\Documents\GitHub\Programing Projects\CaluculatorsInEveryLanguage\CalculatorCsharp\CalculateCsharpV1\obj\Debug\net8.0\CalculateCsharpV1.csproj.CoreCompileInputs.cache
+C:\Users\atang\Documents\GitHub\Programing Projects\CaluculatorsInEveryLanguage\CalculatorCsharp\CalculateCsharpV1\obj\Debug\net8.0\CalculateCsharpV1.sourcelink.json
+C:\Users\atang\Documents\GitHub\Programing Projects\CaluculatorsInEveryLanguage\CalculatorCsharp\CalculateCsharpV1\bin\Debug\net8.0\CalculateCsharpV1.exe
+C:\Users\atang\Documents\GitHub\Programing Projects\CaluculatorsInEveryLanguage\CalculatorCsharp\CalculateCsharpV1\bin\Debug\net8.0\CalculateCsharpV1.deps.json
+C:\Users\atang\Documents\GitHub\Programing Projects\CaluculatorsInEveryLanguage\CalculatorCsharp\CalculateCsharpV1\bin\Debug\net8.0\CalculateCsharpV1.runtimeconfig.json
+C:\Users\atang\Documents\GitHub\Programing Projects\CaluculatorsInEveryLanguage\CalculatorCsharp\CalculateCsharpV1\bin\Debug\net8.0\CalculateCsharpV1.dll
+C:\Users\atang\Documents\GitHub\Programing Projects\CaluculatorsInEveryLanguage\CalculatorCsharp\CalculateCsharpV1\bin\Debug\net8.0\CalculateCsharpV1.pdb
+C:\Users\atang\Documents\GitHub\Programing Projects\CaluculatorsInEveryLanguage\CalculatorCsharp\CalculateCsharpV1\obj\Debug\net8.0\CalculateCsharpV1.dll
+C:\Users\atang\Documents\GitHub\Programing Projects\CaluculatorsInEveryLanguage\CalculatorCsharp\CalculateCsharpV1\obj\Debug\net8.0\refint\CalculateCsharpV1.dll
+C:\Users\atang\Documents\GitHub\Programing Projects\CaluculatorsInEveryLanguage\CalculatorCsharp\CalculateCsharpV1\obj\Debug\net8.0\CalculateCsharpV1.pdb
+C:\Users\atang\Documents\GitHub\Programing Projects\CaluculatorsInEveryLanguage\CalculatorCsharp\CalculateCsharpV1\obj\Debug\net8.0\CalculateCsharpV1.genruntimeconfig.cache
+C:\Users\atang\Documents\GitHub\Programing Projects\CaluculatorsInEveryLanguage\CalculatorCsharp\CalculateCsharpV1\obj\Debug\net8.0\ref\CalculateCsharpV1.dll

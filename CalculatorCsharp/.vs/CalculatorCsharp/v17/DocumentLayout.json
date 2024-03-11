@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\atang\\Documents\\C# Projects\\CalculatorCsharp\\",
+  "WorkspaceRootPath": "C:\\Users\\atang\\Documents\\GitHub\\Programing Projects\\CaluculatorsInEveryLanguage\\CalculatorCsharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7144E0C0-BC0D-41A6-AC54-7B4E560428AE}|CalculatorCsharp.csproj|c:\\users\\atang\\documents\\c# projects\\calculatorcsharp\\programv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7144E0C0-BC0D-41A6-AC54-7B4E560428AE}|CalculatorCsharp.csproj|solutionrelative:programv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C0D4CBA-78E2-46BF-8CB9-61B731558ACC}|CalculateCsharpV1\\CalculateCsharpV1.csproj|c:\\users\\atang\\documents\\github\\programing projects\\caluculatorsineverylanguage\\calculatorcsharp\\calculatecsharpv1\\inputandoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0D4CBA-78E2-46BF-8CB9-61B731558ACC}|CalculateCsharpV1\\CalculateCsharpV1.csproj|solutionrelative:calculatecsharpv1\\inputandoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0D4CBA-78E2-46BF-8CB9-61B731558ACC}|CalculateCsharpV1\\CalculateCsharpV1.csproj|c:\\users\\atang\\documents\\github\\programing projects\\caluculatorsineverylanguage\\calculatorcsharp\\calculatecsharpv1\\opperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0D4CBA-78E2-46BF-8CB9-61B731558ACC}|CalculateCsharpV1\\CalculateCsharpV1.csproj|solutionrelative:calculatecsharpv1\\opperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0D4CBA-78E2-46BF-8CB9-61B731558ACC}|CalculateCsharpV1\\CalculateCsharpV1.csproj|c:\\users\\atang\\documents\\github\\programing projects\\caluculatorsineverylanguage\\calculatorcsharp\\calculatecsharpv1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0D4CBA-78E2-46BF-8CB9-61B731558ACC}|CalculateCsharpV1\\CalculateCsharpV1.csproj|solutionrelative:calculatecsharpv1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProgramV1.cs",
-              "DocumentMoniker": "C:\\Users\\atang\\Documents\\C# Projects\\CalculatorCsharp\\ProgramV1.cs",
-              "RelativeDocumentMoniker": "ProgramV1.cs",
-              "ToolTip": "C:\\Users\\atang\\Documents\\C# Projects\\CalculatorCsharp\\ProgramV1.cs",
-              "RelativeToolTip": "ProgramV1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "DocumentIndex": 1,
+              "Title": "Opperations.cs",
+              "DocumentMoniker": "C:\\Users\\atang\\Documents\\GitHub\\Programing Projects\\CaluculatorsInEveryLanguage\\CalculatorCsharp\\CalculateCsharpV1\\Opperations.cs",
+              "RelativeDocumentMoniker": "CalculateCsharpV1\\Opperations.cs",
+              "ToolTip": "C:\\Users\\atang\\Documents\\GitHub\\Programing Projects\\CaluculatorsInEveryLanguage\\CalculatorCsharp\\CalculateCsharpV1\\Opperations.cs",
+              "RelativeToolTip": "CalculateCsharpV1\\Opperations.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAuwGMAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T17:35:03.006Z",
+              "WhenOpened": "2024-03-06T19:02:30.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InputAndOutput.cs",
+              "DocumentMoniker": "C:\\Users\\atang\\Documents\\GitHub\\Programing Projects\\CaluculatorsInEveryLanguage\\CalculatorCsharp\\CalculateCsharpV1\\InputAndOutput.cs",
+              "RelativeDocumentMoniker": "CalculateCsharpV1\\InputAndOutput.cs",
+              "ToolTip": "C:\\Users\\atang\\Documents\\GitHub\\Programing Projects\\CaluculatorsInEveryLanguage\\CalculatorCsharp\\CalculateCsharpV1\\InputAndOutput.cs",
+              "RelativeToolTip": "CalculateCsharpV1\\InputAndOutput.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAiwCYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T19:00:22.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atang\\Documents\\GitHub\\Programing Projects\\CaluculatorsInEveryLanguage\\CalculatorCsharp\\CalculateCsharpV1\\Program.cs",
+              "RelativeDocumentMoniker": "CalculateCsharpV1\\Program.cs",
+              "ToolTip": "C:\\Users\\atang\\Documents\\GitHub\\Programing Projects\\CaluculatorsInEveryLanguage\\CalculatorCsharp\\CalculateCsharpV1\\Program.cs",
+              "RelativeToolTip": "CalculateCsharpV1\\Program.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAuwCkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T18:51:07.097Z",
               "EditorCaption": ""
             }
           ]

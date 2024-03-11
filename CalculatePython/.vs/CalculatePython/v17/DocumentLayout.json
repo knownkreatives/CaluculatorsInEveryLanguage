@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\atang\\Documents\\Python Projects\\CalculatePython\\",
+  "WorkspaceRootPath": "C:\\Users\\atang\\Documents\\GitHub\\Programing Projects\\CaluculatorsInEveryLanguage\\CalculatePython\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88A4F876-84C0-4860-9D7C-B4A7423F3E92}|CalculatePython.pyproj|C:\\Users\\atang\\Documents\\Python Projects\\CalculatePython\\ProgramV2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{88A4F876-84C0-4860-9D7C-B4A7423F3E92}|CalculatePython.pyproj|solutionrelative:ProgramV2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{1A83A015-F79B-486C-83D7-84D290553E04}|CalculatePythonV2\\CalculatePythonV2.pyproj|C:\\Users\\atang\\Documents\\GitHub\\Programing Projects\\CaluculatorsInEveryLanguage\\CalculatePython\\CalculatePythonV2\\Program.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1A83A015-F79B-486C-83D7-84D290553E04}|CalculatePythonV2\\CalculatePythonV2.pyproj|solutionrelative:CalculatePythonV2\\Program.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A4F876-84C0-4860-9D7C-B4A7423F3E92}|CalculatePython.pyproj|C:\\Users\\atang\\Documents\\Python Projects\\CalculatePython\\ProgramV1.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{88A4F876-84C0-4860-9D7C-B4A7423F3E92}|CalculatePython.pyproj|solutionrelative:ProgramV1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{88A4F876-84C0-4860-9D7C-B4A7423F3E92}|CalculatePythonV1\\CalculatePythonV1.pyproj|C:\\Users\\atang\\Documents\\GitHub\\Programing Projects\\CaluculatorsInEveryLanguage\\CalculatePython\\CalculatePythonV1\\Program.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{88A4F876-84C0-4860-9D7C-B4A7423F3E92}|CalculatePythonV1\\CalculatePythonV1.pyproj|solutionrelative:CalculatePythonV1\\Program.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProgramV1.py",
-              "DocumentMoniker": "C:\\Users\\atang\\Documents\\Python Projects\\CalculatePython\\ProgramV1.py",
-              "RelativeDocumentMoniker": "ProgramV1.py",
-              "ToolTip": "C:\\Users\\atang\\Documents\\Python Projects\\CalculatePython\\ProgramV1.py",
-              "RelativeToolTip": "ProgramV1.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Program.py",
+              "DocumentMoniker": "C:\\Users\\atang\\Documents\\GitHub\\Programing Projects\\CaluculatorsInEveryLanguage\\CalculatePython\\CalculatePythonV2\\Program.py",
+              "RelativeDocumentMoniker": "CalculatePythonV2\\Program.py",
+              "ToolTip": "C:\\Users\\atang\\Documents\\GitHub\\Programing Projects\\CaluculatorsInEveryLanguage\\CalculatePython\\CalculatePythonV2\\Program.py",
+              "RelativeToolTip": "CalculatePythonV2\\Program.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-03-04T17:44:41.456Z",
+              "WhenOpened": "2024-03-11T18:25:17.609Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProgramV2.py",
-              "DocumentMoniker": "C:\\Users\\atang\\Documents\\Python Projects\\CalculatePython\\ProgramV2.py",
-              "RelativeDocumentMoniker": "ProgramV2.py",
-              "ToolTip": "C:\\Users\\atang\\Documents\\Python Projects\\CalculatePython\\ProgramV2.py",
-              "RelativeToolTip": "ProgramV2.py",
-              "ViewState": "AQIAAIQAAAAAAAAAAAAuwJYAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "Program.py",
+              "DocumentMoniker": "C:\\Users\\atang\\Documents\\GitHub\\Programing Projects\\CaluculatorsInEveryLanguage\\CalculatePython\\CalculatePythonV1\\Program.py",
+              "RelativeDocumentMoniker": "CalculatePythonV1\\Program.py",
+              "ToolTip": "C:\\Users\\atang\\Documents\\GitHub\\Programing Projects\\CaluculatorsInEveryLanguage\\CalculatePython\\CalculatePythonV1\\Program.py",
+              "RelativeToolTip": "CalculatePythonV1\\Program.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-03-04T17:44:37.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T18:45:15.775Z"
             }
           ]
         }

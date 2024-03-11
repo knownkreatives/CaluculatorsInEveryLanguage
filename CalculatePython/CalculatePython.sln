@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CalculatePython", "CalculatePython.pyproj", "{88A4F876-84C0-4860-9D7C-B4A7423F3E92}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CalculatePythonV1", "CalculatePythonV1\CalculatePythonV1.pyproj", "{88A4F876-84C0-4860-9D7C-B4A7423F3E92}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CalculatePythonV2", "CalculatePythonV2\CalculatePythonV2.pyproj", "{1A83A015-F79B-486C-83D7-84D290553E04}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +15,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{88A4F876-84C0-4860-9D7C-B4A7423F3E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{88A4F876-84C0-4860-9D7C-B4A7423F3E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A83A015-F79B-486C-83D7-84D290553E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A83A015-F79B-486C-83D7-84D290553E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

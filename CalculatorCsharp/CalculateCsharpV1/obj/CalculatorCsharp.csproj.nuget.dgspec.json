@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\atang\\Documents\\C# Projects\\CalculatorCsharp\\CalculatorCsharp.csproj": {}
+    "C:\\Users\\atang\\Documents\\GitHub\\Programing Projects\\CaluculatorsInEveryLanguage\\CalculatorCsharp\\CalculatorCsharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\atang\\Documents\\C# Projects\\CalculatorCsharp\\CalculatorCsharp.csproj": {
+    "C:\\Users\\atang\\Documents\\GitHub\\Programing Projects\\CaluculatorsInEveryLanguage\\CalculatorCsharp\\CalculatorCsharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\atang\\Documents\\C# Projects\\CalculatorCsharp\\CalculatorCsharp.csproj",
+        "projectUniqueName": "C:\\Users\\atang\\Documents\\GitHub\\Programing Projects\\CaluculatorsInEveryLanguage\\CalculatorCsharp\\CalculatorCsharp.csproj",
         "projectName": "CalculatorCsharp",
-        "projectPath": "C:\\Users\\atang\\Documents\\C# Projects\\CalculatorCsharp\\CalculatorCsharp.csproj",
+        "projectPath": "C:\\Users\\atang\\Documents\\GitHub\\Programing Projects\\CaluculatorsInEveryLanguage\\CalculatorCsharp\\CalculatorCsharp.csproj",
         "packagesPath": "C:\\Users\\atang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\atang\\Documents\\C# Projects\\CalculatorCsharp\\obj\\",
+        "outputPath": "C:\\Users\\atang\\Documents\\GitHub\\Programing Projects\\CaluculatorsInEveryLanguage\\CalculatorCsharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
