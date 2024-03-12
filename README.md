@@ -23,6 +23,8 @@ calculator.Main()
 - [ ] Unit conversions
 - [ ] Normal algebraic expressions
 
+---
+
 #### Currently implemented languages:
 - Python
 - C#
@@ -33,6 +35,5 @@ calculator.Main()
 
 ---
 
-Footnote:
 [^1]: A version is a modification or variation to the previous implementation.
 [^2]: A function could also be a method or anything else that runs some code with an identifier.
