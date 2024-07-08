@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>Calculator</title>
+    <style>
+        body {
+            margin: 0;
+            padding-bottom: 3rem;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        }
+        .center {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 500px;
+        } 
+    </style>
+</head>
+<body>
+
+    <label for="input">Inputs (seperate values by commas):</label>
+    <span id="input">
+        <input type="number" />
+        <input type="number" />
+    </span>
+
+    <br>
+
+    <label for="choice">Choose an operation:</label>
+    <select name="choice" id="choice">
+        <option value="">--Please choose an option--</option>
+        <option value="1">Add</option>
+        <option value="2">Subtract</option>
+        <option value="3">Multiply</option>
+        <option value="4">Divide</option>
+    </select>
+
+    <label for="output">Here is the result:</label>
+    <p id="output"></p>
+
+    <script src="Main.js"></script>
+    <script>
+        var input_e = document.getElementById("input");
+        var input_v = input_e.getElementsByTagName("input");
+
+        $(document).ready(() => {
+            $("#value").on("change", () => {
+                var input_e = document.getElementById("input");
+                var input_v = input_e.getElementsByTagName("input");
+                var choice_e = document.getElementById("choice");
+
+                $.ajax({
+                    url: `?values=[${input_v[0]},${input_v[1]}]&choice=${choice_e.value}`
+                }).done(function (data) {
+                    console.log("Sample of data:", data);
+                    ('#output').html(data.message);
+                });
+            })
+        });
+    </script>
+</body>
+</html>

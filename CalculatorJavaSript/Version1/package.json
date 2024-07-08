@@ -1,0 +1,21 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "main": "Main.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Main.js"
+  },
+  "author": "Knownkreatives",
+  "license": "MIT",
+  "description": "A simple calculator",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knownkreatives/CaluculatorsInEveryLanguage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/knownkreatives/CaluculatorsInEveryLanguage/issues"
+  },
+  "homepage": "https://github.com/knownkreatives/CaluculatorsInEveryLanguage#readme"
+}

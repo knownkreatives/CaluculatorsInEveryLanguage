@@ -25,6 +25,8 @@ calculator.Main()
 
 #### Next set of languages:
 - C++
+- C
+- Javascript
 - Java
 
 [^1]: A version is a modification or variation to the previous implementation.

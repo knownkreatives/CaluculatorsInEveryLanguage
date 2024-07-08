@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atang\\Documents\\GitHub\\Programing_Projects\\CaluculatorsInEveryLanguage\\CalculatorJavaSript\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E927998E-F76B-4D27-AAF0-8CB6C5CD78A4}|Version1\\Version1.esproj|c:\\users\\atang\\documents\\github\\programing_projects\\caluculatorsineverylanguage\\calculatorjavasript\\version1\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E927998E-F76B-4D27-AAF0-8CB6C5CD78A4}|Version1\\Version1.esproj|solutionrelative:version1\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E927998E-F76B-4D27-AAF0-8CB6C5CD78A4}|Version1\\Version1.esproj|c:\\users\\atang\\documents\\github\\programing_projects\\caluculatorsineverylanguage\\calculatorjavasript\\version1\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E927998E-F76B-4D27-AAF0-8CB6C5CD78A4}|Version1\\Version1.esproj|solutionrelative:version1\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E927998E-F76B-4D27-AAF0-8CB6C5CD78A4}|Version1\\Version1.esproj|c:\\users\\atang\\documents\\github\\programing_projects\\caluculatorsineverylanguage\\calculatorjavasript\\version1\\program.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E927998E-F76B-4D27-AAF0-8CB6C5CD78A4}|Version1\\Version1.esproj|solutionrelative:version1\\program.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E927998E-F76B-4D27-AAF0-8CB6C5CD78A4}|Version1\\Version1.esproj|c:\\users\\atang\\documents\\github\\programing_projects\\caluculatorsineverylanguage\\calculatorjavasript\\version1\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E927998E-F76B-4D27-AAF0-8CB6C5CD78A4}|Version1\\Version1.esproj|solutionrelative:version1\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\atang\\Documents\\GitHub\\Programing_Projects\\CaluculatorsInEveryLanguage\\CalculatorJavaSript\\Version1\\package.json",
+              "RelativeDocumentMoniker": "Version1\\package.json",
+              "ToolTip": "C:\\Users\\atang\\Documents\\GitHub\\Programing_Projects\\CaluculatorsInEveryLanguage\\CalculatorJavaSript\\Version1\\package.json",
+              "RelativeToolTip": "Version1\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-29T13:49:35.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.js",
+              "DocumentMoniker": "C:\\Users\\atang\\Documents\\GitHub\\Programing_Projects\\CaluculatorsInEveryLanguage\\CalculatorJavaSript\\Version1\\Program.js",
+              "RelativeDocumentMoniker": "Version1\\Program.js",
+              "ToolTip": "C:\\Users\\atang\\Documents\\GitHub\\Programing_Projects\\CaluculatorsInEveryLanguage\\CalculatorJavaSript\\Version1\\Program.js",
+              "RelativeToolTip": "Version1\\Program.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-29T13:25:38.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.js",
+              "DocumentMoniker": "C:\\Users\\atang\\Documents\\GitHub\\Programing_Projects\\CaluculatorsInEveryLanguage\\CalculatorJavaSript\\Version1\\Main.js",
+              "RelativeDocumentMoniker": "Version1\\Main.js",
+              "ToolTip": "C:\\Users\\atang\\Documents\\GitHub\\Programing_Projects\\CaluculatorsInEveryLanguage\\CalculatorJavaSript\\Version1\\Main.js",
+              "RelativeToolTip": "Version1\\Main.js",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAwwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-27T19:31:54.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.html",
+              "DocumentMoniker": "C:\\Users\\atang\\Documents\\GitHub\\Programing_Projects\\CaluculatorsInEveryLanguage\\CalculatorJavaSript\\Version1\\Index.html",
+              "RelativeDocumentMoniker": "Version1\\Index.html",
+              "ToolTip": "C:\\Users\\atang\\Documents\\GitHub\\Programing_Projects\\CaluculatorsInEveryLanguage\\CalculatorJavaSript\\Version1\\Index.html",
+              "RelativeToolTip": "Version1\\Index.html",
+              "ViewState": "AQIAAC0AAAAAAAAAAADwvzcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-27T19:31:53.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
